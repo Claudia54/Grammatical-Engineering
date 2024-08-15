@@ -1,0 +1,38 @@
+string variavel
+dict a
+print(\"asa\")
+a = {\"hoje\":3}
+numero myfunction(number, y, z){
+                numero x
+                numero b
+                if(number<5){
+                        x=x+1
+                }else{
+                        x=x-1
+                }
+                return x
+        }
+numero e
+numero i = a[\"hoje\"]
+numero i = 3
+numero w = 6
+print("Computador:",w)
+input(t)
+a[\"hoje\"] = 5
+while(i < 10){
+        x = myfunction(u)
+        if(i == 5){
+                i = i +2
+        }else{
+                i = i +1
+        }   
+}
+do{
+    w=w-1
+}while(w<2)
+w=w+3
+if(w<5){
+    if(w==3){
+     w=5
+    }
+}
